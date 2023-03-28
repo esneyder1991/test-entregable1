@@ -1,0 +1,53 @@
+
+
+.containerInfo {
+    position: relative;
+}
+
+.containerInfo__title {
+    font-style: normal;
+    font-weight: 400;
+    color: #ffffff;
+    line-height: 44px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    text-shadow: 4px 6px 0px rgba(0, 0,0, 17);
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.containerInfo__quote {
+    
+    color: gray;
+    background-image: url("/images/rectangle.png");
+    padding: 30px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 3;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    max-width: 400px;
+    box-shadow: 12px 12px 1px rgba(0, 0, 0, 0.13);
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 25%;
+  
+
+
+    
+}
+
+.quotes {
+    position: absolute;
+    left: 75%;
+    right: 12.5%;
+    top: 75%;
+    bottom: 20.1%;
+    
+    
+
+}
+
