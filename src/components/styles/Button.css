@@ -8,8 +8,8 @@
     display: flex ;
     cursor: pointer;
     transition: background 200ms ease;
-    margin-top: 150px;
-    margin-left: 200px;
+    margin-top: 250px;
+    margin-left: 150px;
     padding: 10px 30px;
 }
 

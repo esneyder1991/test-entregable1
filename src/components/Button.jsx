@@ -1,10 +1,12 @@
-import React from 'react'
-import "./styles/Button.css"
+import React from "react";
+import "./styles/Button.css";
 
-const Button = ({handleNewQuote}) => {
+const Button = ({ handleNewQuote }) => {
   return (
-    <button className='button' onClick={handleNewQuote}>Ver otro</button>
-  )
-}
+    <button className="button" onClick={handleNewQuote}>
+      See Another Quote
+    </button>
+  );
+};
 
-export default Button
+export default Button;
