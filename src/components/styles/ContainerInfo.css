@@ -35,8 +35,6 @@
     align-items: center;
     justify-content:center;
     max-width: 100%;
-    min-width: 0;
-    word-wrap: break-word;     
     overflow-wrap: break-word;   
     box-sizing: border-box; 
     
