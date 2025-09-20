@@ -1,18 +1,24 @@
 .button {
-   position: absolute;
+   
     background: rgba(255, 255, 255, 0.6);
     border: 2px solid #FFFFFF;
     border-radius: 10px;
     font-size: 15px;
     font-weight: normal;
-    display: flex ;
     cursor: pointer;
     transition: background 200ms ease;
-    margin-top: 250px;
-    margin-left: 150px;
+   
     padding: 10px 30px;
 }
 
 .button:hover {
    background-color: rgba(221, 156, 37);
 }
+/* @media (max-width: 768px) {
+    .button {
+        position: relative; 
+        margin: 30px auto; 
+        font-size: 18px; 
+        padding: 12px 35px;
+    }
+} */
